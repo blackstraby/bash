@@ -1,9 +1,9 @@
 #!/bin/bash
-		#################################################
-		#	    @@Author: Black Straby			              #
-		#   	@@Date: June 13th, 2016 		              #
-		#	    @@Function: Extrair informacoes por DNS	  #
-		#################################################
+		######################################################
+		#	    @@Author: Black Straby	             #
+		#   	@@Date: June 13th, 2016 		     #
+		#	    @@Function: Extrair informacoes por DNS  #
+		######################################################
 
 figlet DNSCATCH
 

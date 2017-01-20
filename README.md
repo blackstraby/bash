@@ -11,6 +11,3 @@ Desenvolvidos em: <b>Bash Script</b>.<br>
 
 <h4><a href="https://github.com/blackstraby/bash/blob/master/firewall-basico.sh" > Firewall Báisco: </a></h4>
 <p>Script de firewall IPTABLES, aplicando regras básicas de proteção. </p>
-
-<h4><a href="https://github.com/blackstraby/bash/blob/master/portScan.py" > Port Scanner: </a></h4>
-<p>Script para varrer portas abertas em determinada rede ou alvo. </p>
